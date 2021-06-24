@@ -3,7 +3,7 @@
 <h3 align="center">🔍 Navegue por dentro do Readme </h3>
 <p align="center">
   <a href="#-Como-iniciar-o-programa-do-jeito-certo">🚀Inicio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Configurando-o-Docker">🐋Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#configurando-o-docker">🐋Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Para-Finalizar">🏁Final</a>
 </p>
 
