@@ -29,6 +29,14 @@ O **Docker** inclui todas as dependências necessárias para executar a aplicaç
 ```sh
  docker container run -d --name redis-plm2 -p 6379:6379 redis
 ```
+Obs: Verifique se o **Container** iniciou corretamente usando:
+```sh
+ docker ps
+```
+caso não seja o Container **redis-plm2**, digite no seu console:
+```sh
+ docker start redis-plm2
+```
 
 ## 🏁Para Finalizar:
 A seguir utilize esse comando para instalar o gerenciador de dependências:
