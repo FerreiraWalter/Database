@@ -12,7 +12,7 @@
 Após realizar clone do **projeto** é necessário verificar se os Softwares a seguir estão baixados e/ou nas seguintes versões:
 - 🐋[Docker](https://www.docker.com)
 -  ⚙️[nvm](https://github.com/nvm-sh/nvm)
-- 🟢[Node.js](https://nodejs.org/): v10+
+- 🟢[Node.js](https://nodejs.org/): v14+
 
 caso esteja em uma versão inferior, com o nvm instalado, em seu console digite o seguinte comando:
 ```sh
@@ -42,10 +42,6 @@ caso não seja o Container **redis-plm2**, digite no seu console:
 A seguir utilize esse comando para instalar o gerenciador de dependências:
 ```sh
  npm install
-```
-quando concluir, instale uma dependência que servirá para gerenciar componentes de front-end:
-```sh
- bower install
 ```
 e para finalizar, inicie sua aplicação com o seguinte comando:
 ```sh
