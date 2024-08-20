@@ -1,0 +1,14 @@
+db.aluno.find({"nome":"Walter"}).pretty()
+{
+  _id:6060ef5f3d00324d872d6b8b
+  nome:"Walter"
+  idade:19
+}
+
+db.aluno.find({"nome":"Walter"}).count()
+1
+
+db.aluno.find().count()
+3
+
+db.aluno.find().sort({"nome":1}).pretty() //Ordem Crescente
